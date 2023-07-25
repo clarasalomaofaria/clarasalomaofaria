@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+
+![Capa_Linkedin](https://github.com/clarasalomaofaria/clarasalomaofaria/assets/110926406/b8e9411d-ece5-4774-9bc2-5bb9e8d320d3)
 
 <!--
 **clarasalomaofaria/clarasalomaofaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
