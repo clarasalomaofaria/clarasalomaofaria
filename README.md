@@ -4,7 +4,7 @@
 ![Capa_Linkedin](https://github.com/clarasalomaofaria/clarasalomaofaria/assets/110926406/b8e9411d-ece5-4774-9bc2-5bb9e8d320d3)
 
 # 💫 About Me:
--- Estudante do curso de Análise e Desenvolvimento de Sistemas e Estagiária na SPTech School.<br>-- Formada em modelagem 3D.
+-- Estagiária na SPTech School.<br>-- Estudante do curso de Análise e Desenvolvimento de Sistemas.<br>-- Formada em modelagem 3D.
 
 
 ## 🌐 Socials:
